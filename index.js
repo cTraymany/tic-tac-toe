@@ -1,5 +1,9 @@
-let boxOne = "x";
-let boxTwo = "o";
-let boxThree = " ";
-console.log(`[${boxOne}], [${boxTwo}], [${boxThree}]`);
-console.log("can you see this?");
+let boxOne = document.getElementById("first-box");
+let boxTwo = document.getElementById("second-box");
+let boxThree = document.getElementById("third-box");
+let boxFour = document.getElementById("fourth-box");
+let boxFive = document.getElementById("fifth-box");
+let boxSix = document.getElementById("sixth-box");
+let boxSeven = document.getElementById("seventh-box");
+let boxEight = document.getElementById("eigth-box");
+let boxNine = document.getElementById("ninth-box");
