@@ -7,3 +7,23 @@ let boxSix = document.getElementById("sixth-box");
 let boxSeven = document.getElementById("seventh-box");
 let boxEight = document.getElementById("eigth-box");
 let boxNine = document.getElementById("ninth-box");
+
+let boxOneValue = "";
+let boxTwoValue = "";
+let boxThreeValue = "";
+let boxFourValue = "";
+let boxFiveValue = "";
+let boxSixValue = "";
+let boxSevenValue = "";
+let boxEightValue = "";
+let boxNineValue = "";
+
+boxOne.innerHTML = `${boxOneValue}`;
+boxTwo.innerHTML = `${boxTwoValue}`;
+boxThree.innerHTML = `${boxThreeValue}`;
+boxFour.innerHTML = `${boxFourValue}`;
+boxFive.innerHTML = `${boxFiveValue}`;
+boxSix.innerHTML = `${boxSixValue}`;
+boxSeven.innerHTML = `${boxSevenValue}`;
+boxEight.innerHTML = `${boxEightValue}`;
+boxNine.innerHTML = `${boxNineValue}`;
